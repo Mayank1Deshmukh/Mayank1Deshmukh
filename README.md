@@ -1,6 +1,6 @@
 <!-- Header banner (capsule-render). Tweak colors with customColorList=0..29 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=gradient&customColorList=6,11,20&text=Mayank%20Deshmukh&fontSize=48&fontAlignY=38&desc=Full-Stack%20%26%20AI-Powered%20Software&descAlignY=58&descSize=18&animation=fadeIn" alt="Mayank Deshmukh banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=gradient&customColorList=6,11,20&text=Mayank%20Deshmukh&fontSize=48&fontAlignY=38&desc=Full-Stack%20and%20AI-Powered%20Software&descAlignY=58&descSize=18&animation=fadeIn" alt="Mayank Deshmukh banner" />
 </p>
 
 <!-- Animated typing text. Lines are separated by ; and spaces are + -->
